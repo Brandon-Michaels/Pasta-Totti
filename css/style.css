@@ -168,8 +168,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
-	background-color: #e5e5e5;
+	background: url(../img/intro_pasta_totti.jpg) center center no-repeat;
+
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -238,9 +238,9 @@ header .intro-text {
 	padding: 80px 0;
 }
 #about .about-img {
-	background: #444 url(../img/gallery-bg.jpg) center center no-repeat;
+	background: #444 url(../img/about.jpeg) center center no-repeat;
 	background-size: cover;
-	height: 570px;
+	height: 500px;
 }
 #about p {
 	line-height: 24px;
@@ -287,7 +287,7 @@ header .intro-text {
 	width: 85%;
 }
 #restaurant-menu .menu-item-price {
-	float: right;
+	float: right; 
 	font-weight: 400;
 	color: #555;
 	margin-top: -36px;
